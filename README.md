@@ -65,7 +65,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       <p>A full-stack recruitment platform that streamlines the hiring process by connecting recruiters with job seekers.</p>
       <p>
         <a href="https://hireloop-full-stack-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/Pinon1345" target="_blank"><b>💻 GitHub Code</b></a>
+        <a href="https://github.com/Pinon1345/HireLoop-Job-Finder-Website" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
