@@ -1,28 +1,48 @@
-<!-- Banner Image -->
+<!-- Banner Section with Animated Typing & Coding GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e293b&height=220&section=header&text=FOURKAN%20BIN%20ILIAS&fontSize=38&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=18&descAlignY=75" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e293b&height=200&section=header&text=FOURKAN%20BIN%20ILIAS&fontSize=42&fontColor=ffffff" width="100%" />
+  
+  <br />
 
-<!-- Add-on: Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pinon1345&style=flat-square&color=0077b5" alt="Profile Views" />
+  <!-- Animated Typing Text -->
+  <a href="https://github.com/Pinon1345">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+%26+Next.js+Specialist;Building+Scalable+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <!-- Animated Coding GIF -->
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93836/giphy.gif" width="450px" alt="Coding GIF" />
 </div>
 
 <br />
 
-<!-- About Me -->
+<!-- Animated Profile Header Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pinon1345&style=for-the-badge&color=0077b5&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Chittagong%2C%20Bangladesh-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Status" />
+</div>
+
+<br />
+
+<!-- Animated Gradient Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
+
+<!-- About Me Section -->
 ## 👨‍💻 About Me
 
 # Hello! 👋 I'm Fourkan Bin Ilias
 
 A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to building modern, scalable, and high-performance web applications using **React, Next.js, Node.js, Express.js, MongoDB, and the MERN Stack**. I enjoy transforming ideas into real-world solutions through clean architecture, efficient code, and intuitive user experiences.
 
-* 🔭 **Currently working on:** Full Stack MERN applications that solve real-world problems with modern role based authentication, payment integration, and scalable backend architecture.
-* 🌱 **Currently exploring:** Advanced Next.js, System Design, Backend Architecture, Performance Optimization, and industry best practices.
-* 💡 **Passionate about:** Writing clean, maintainable, and scalable code while creating fast, responsive, and user-centric web experiences.
-* 🎯 **Goal:** To continuously grow as a software engineer and build impactful, production-ready applications that make a difference.
+* 🔭 **Currently working on:** Full Stack MERN applications featuring role-based access control, payment gateways, and scalable APIs.
+* 🌱 **Currently exploring:** Advanced Next.js, System Design, Microservices Architecture, and Performance Optimization.
+* 💡 **Passionate about:** Clean code principles, maintainable architecture, and pixel-perfect UI engineering.
+* 🎯 **Goal:** Continuous growth as a Software Engineer and contributing to impactful open-source projects.
 
----
+<!-- Animated Gradient Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
@@ -33,128 +53,141 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
       <h3><b>StudyNook</b></h3>
       <p>A smart library study space and seat booking platform featuring real-time availability and user management.</p>
       <p>
-        <a href=https://studynook-library-booking-project.vercel.app/ target="_blank"><b>Live</b></a> • 
-        <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>Code</b></a>
+        <a href="https://studynook-library-booking-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <p>
-  		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-		<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  		<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  		<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><b>Wanderlust</b></h3>
-      <p>Full-featured travel & tour booking portal with interactive destination guides and seamless user reservation flow.</p>
+      <p>Full-featured travel & tour booking portal with interactive destination guides and seamless reservation flow.</p>
       <p>
-        <a href=https://wanderlust-travel-tour.vercel.app/ target="_blank"><b>Live</b></a> • 
-        <a href="https://github.com/Pinon1345/Wanderlust-Travel-Tour" target="_blank"><b>Code</b></a>
+        <a href="https://wanderlust-travel-tour.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Pinon1345/Wanderlust-Travel-Tour" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-		<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-		<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <h3><b>Online Book Borrowing</b></h3>
       <p>Web platform designed to streamline library management, book borrowing tracking, and dynamic catalog searching.</p>
       <p>
-        <a href=https://online-book-borrowing-platform-eight.vercel.app/ target="_blank"><b>Live</b></a> • 
-        <a href="https://github.com/Pinon1345/Online-Book-Borrowing-Platform" target="_blank"><b>Code</b></a>
+        <a href="https://online-book-borrowing-platform-eight.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Pinon1345/Online-Book-Borrowing-Platform" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        	<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-		<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><b>Keen Keeper</b></h3>
       <p>Personal relationship CRM and tracking tool featuring interactive timelines, log interactions, and data visualization.</p>
       <p>
-        <a href="YOUR_KEEN_KEEPER_LIVE_LINK" target="_blank"><b>Live</b></a> • 
-        <a href="https://github.com/Pinon1345/keen-keeper-website-project" target="_blank"><b>Code</b></a>
+        <a href="YOUR_KEEN_KEEPER_LIVE_LINK" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Pinon1345/keen-keeper-website-project" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        	<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-		<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<!-- Animated Gradient Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
 
+<!-- Interactive Tech Stack & Skills -->
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend**
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 </p>
 
 ### **Backend & Database**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://postman.com/" target="_blank"><img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></a>
 </p>
 
-### **Tools & Platforms**
+### **Tools & Deployment**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Surge-121212?style=for-the-badge&logo=surge&logoColor=white" alt="Surge" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
+  <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /></a>
+  <a href="https://stripe.com/" target="_blank"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></a>
 </p>
 
----
+<!-- Animated Gradient Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
 
+<!-- Animated Contribution Snake -->
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pinon1345/Pinon1345/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br />
+
+<!-- GitHub Analytics Section -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fourkan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinon1345&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fourkan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinon1345&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinon1345&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinon1345&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
----
+<!-- Animated Gradient Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
 
-<!-- Add-on: Dev Quote -->
+<!-- Dynamic Dev Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br />
 
+<!-- Social Connect Section -->
 ## 🌐 Connect with Me
 
 <p align="left">
