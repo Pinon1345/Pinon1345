@@ -21,7 +21,22 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pinon1345&style=for-the-badge&color=0077b5&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Chittagong%2C%20Bangladesh-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Shipping-brightgreen?style=for-the-badge&logo=github" alt="Status" />
+</div>
+
+<br />
+
+<!-- Social Connect Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/fourkan-bin-ilias-6117b0347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pinonfurkan1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/8801680224284" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+8801680224284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </div>
 
 <br />
@@ -36,6 +51,8 @@
 
 A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to building modern, scalable, and high-performance web applications using **React, Next.js, Node.js, Express.js, MongoDB, and the MERN Stack**. I enjoy transforming ideas into real-world solutions through clean architecture, efficient code, and intuitive user experiences.
 
+> 🚀 **Currently Building:** **[Hireloop](https://hireloop-full-stack-project.vercel.app/)** — A full-stack recruitment platform that streamlines the hiring process by connecting recruiters with job seekers. It features secure role-based authentication, job posting and management, advanced search and filtering, online application tracking, and a modern, responsive user interface built for a seamless user experience.
+
 * 🔭 **Currently working on:** Full Stack MERN applications featuring role-based access control, payment gateways, and scalable APIs.
 * 🌱 **Currently exploring:** Advanced Next.js, System Design, Microservices Architecture, and Performance Optimization.
 * 💡 **Passionate about:** Clean code principles, maintainable architecture, and pixel-perfect UI engineering.
@@ -49,6 +66,21 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 
 <table width="100%">
   <tr>
+    <td width="50%" valign="top" align="center">
+      <h3><b>Hireloop</b></h3>
+      <p>A full-stack recruitment platform that streamlines the hiring process by connecting recruiters with job seekers.</p>
+      <p>
+        <a href="https://hireloop-full-stack-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Pinon1345" target="_blank"><b>💻 GitHub Code</b></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
     <td width="50%" valign="top" align="center">
       <h3><b>StudyNook</b></h3>
       <p>A smart library study space and seat booking platform featuring real-time availability and user management.</p>
@@ -65,6 +97,8 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <h3><b>Wanderlust</b></h3>
       <p>Full-featured travel & tour booking portal with interactive destination guides and seamless reservation flow.</p>
@@ -81,8 +115,6 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <h3><b>Online Book Borrowing</b></h3>
       <p>Web platform designed to streamline library management, book borrowing tracking, and dynamic catalog searching.</p>
@@ -99,11 +131,12 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
       <h3><b>Keen Keeper</b></h3>
       <p>Personal relationship CRM and tracking tool featuring interactive timelines, log interactions, and data visualization.</p>
       <p>
-        <a href="YOUR_KEEN_KEEPER_LIVE_LINK" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/keen-keeper-website-project" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
@@ -154,11 +187,11 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 <!-- Animated Gradient Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
 
-<!-- Animated Contribution Snake -->
-## 🐍 Contribution Graph
+<!-- GitHub Trophies -->
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pinon1345&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Fourkan's GitHub Trophies" />
 </div>
 
 <br />
@@ -197,7 +230,14 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
   <a href="mailto:pinonfurkan1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="tel:+8801680224284">
+  <a href="https://wa.me/8801680224284" target="_blank">
     <img src="https://img.shields.io/badge/Phone-+8801680224284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
+
+<!-- Professional Footer -->
+<div align="center">
+  <hr width="50%" />
+  <p>⚡ <i>"First, solve the problem. Then, write the code."</i></p>
+  <p>Designed with ❤️ by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
+</div>
