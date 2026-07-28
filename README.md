@@ -74,11 +74,14 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <a href="https://github.com/Pinon1345" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <p>
+  		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  		<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  		<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  		<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  		<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+</p>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -200,13 +203,6 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fourkan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinon1345&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinon1345&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
@@ -239,5 +235,5 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 <div align="center">
   <hr width="50%" />
   <p>⚡ <i>"First, solve the problem. Then, write the code."</i></p>
-  <p>Designed with ❤️ by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
+  <p>Designed with by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
 </div>
