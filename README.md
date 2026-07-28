@@ -6,12 +6,15 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Developer** based in **Chattogram, Bangladesh**. I specialize in building modern, scalable, and high-performance web applications using the **MERN Stack** and **Next.js**.
+# Hello! 👋 I'm Fourkan Bin Ilias
 
-- 📍 **Location:** Chattogram, Bangladesh
-- 🔭 **Currently working on:** **HireLoop** – A full-stack recruitment platform featuring role-based auth, Stripe payments, and dynamic job search filtering.
-- 🌱 **Currently exploring:** Advanced Next.js Server Components, System Architecture, and Performance Optimization.
-- ⚡ **Focus:** Writing clean, maintainable code and building seamless user experiences.
+A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to building modern, scalable, and high-performance web applications using **React, Next.js, Node.js, Express.js, MongoDB, and the MERN Stack**. I enjoy transforming ideas into real-world solutions through clean architecture, efficient code, and intuitive user experiences.
+
+* 🔭 **Currently working on:** Full Stack MERN applications that solve real-world problems with modern role based authentication, payment integration, and scalable backend architecture.
+* 🌱 **Currently exploring:** Advanced Next.js, System Design, Backend Architecture, Performance Optimization, and industry best practices.
+* 💡 **Passionate about:** Writing clean, maintainable, and scalable code while creating fast, responsive, and user-centric web experiences.
+* 🎯 **Goal:** To continuously grow as a software engineer and build impactful, production-ready applications that make a difference.
+
 
 ---
 
