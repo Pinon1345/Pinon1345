@@ -1,23 +1,24 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e293b&height=200&section=header&text=Pinon&fontSize=50&fontColor=ffffff&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e293b&height=220&section=header&text=FOURKAN%20BIN%20ILIAS&fontSize=38&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=18&descAlignY=75" width="100%" />
 </div>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**. I specialize in building modern, scalable, and high-performance web applications using the **MERN Stack** and **Next.js**.
+Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Developer** based in **Chattogram, Bangladesh**. I specialize in building modern, scalable, and high-performance web applications using the **MERN Stack** and **Next.js**.
 
+- 📍 **Location:** Chattogram, Bangladesh
 - 🔭 **Currently working on:** **HireLoop** – A full-stack recruitment platform featuring role-based auth, Stripe payments, and dynamic job search filtering.
-- 🌱 **Currently exploring:** Advanced Next.js Server Components, Performance Optimization, and System Architecture.
-- ⚡ **Focus:** Building clean, accessible user interfaces paired with secure, robust backend APIs.
+- 🌱 **Currently exploring:** Advanced Next.js Server Components, System Architecture, and Performance Optimization.
+- ⚡ **Focus:** Writing clean, maintainable code and building seamless user experiences.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### **Frontend & Frameworks**
-p<p align="left">
+### **Frontend**
+<p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -47,7 +48,7 @@ p<p align="left">
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pinon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fourkan's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinon1345&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
 </div>
 
@@ -62,13 +63,13 @@ p<p align="left">
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/fourkan-bin-ilias-6117b0347/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pinonfurkan1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  <a href="tel:+8801680224284">
+    <img src="https://img.shields.io/badge/Phone-+8801680224284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
