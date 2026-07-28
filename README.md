@@ -190,11 +190,13 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 <!-- Animated Gradient Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Achievements
+<!-- GitHub Achievements -->
+## 🏆 GitHub Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pinon1345&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Fourkan's GitHub Trophies" />
+  <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/GitHub-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/GitHub-YOLO-brightgreen?style=for-the-badge&logo=github" alt="YOLO" />
 </div>
 
 <br />
