@@ -6,7 +6,7 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm **Pinon**, a passionate **Junior Full Stack Web Developer**. I specialize in building modern, scalable, and high-performance web applications using the **MERN Stack** and **Next.js**.
+Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**. I specialize in building modern, scalable, and high-performance web applications using the **MERN Stack** and **Next.js**.
 
 - 🔭 **Currently working on:** **HireLoop** – A full-stack recruitment platform featuring role-based auth, Stripe payments, and dynamic job search filtering.
 - 🌱 **Currently exploring:** Advanced Next.js Server Components, Performance Optimization, and System Architecture.
