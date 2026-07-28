@@ -158,8 +158,10 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://snk-generator.vercel.app/api/snake?username=Pinon1345&color_snake=38B2AC&color_dots=1a1b26,38B2AC,2ac3de,7dcfff,bb9af7" alt="Snake Animation" width="100%" />
+  <img src="https://platane.github.io/snk/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
+
+<br />
 
 <!-- GitHub Analytics Section -->
 ## 📊 GitHub Analytics
@@ -180,7 +182,7 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 
 <!-- Dynamic Dev Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
 <br />
