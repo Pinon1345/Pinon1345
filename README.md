@@ -158,23 +158,21 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pinon1345/Pinon1345/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://snk-generator.vercel.app/api/snake?username=Pinon1345&color_snake=38B2AC&color_dots=1a1b26,38B2AC,2ac3de,7dcfff,bb9af7" alt="Snake Animation" width="100%" />
 </div>
-
-<br />
 
 <!-- GitHub Analytics Section -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fourkan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinon1345&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinon1345&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fourkan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinon1345&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinon1345&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinon1345&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 <!-- Animated Gradient Line Divider -->
