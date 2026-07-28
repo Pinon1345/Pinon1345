@@ -64,8 +64,6 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <h3><b>Online Book Borrowing</b></h3>
       <p>Web platform designed to streamline library management, book borrowing tracking, and dynamic catalog searching.</p>
