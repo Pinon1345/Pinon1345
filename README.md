@@ -1,6 +1,6 @@
 <!-- Banner Section with Animated Typing & Coding GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e293b&height=200&section=header&text=FOURKAN%20BIN%20ILIAS&fontSize=42&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e293b&height=200&section=header&text=FOURKAN%20BIN%20ILIAS&fontSize=42&fontColor=ffffff" width="100%" alt="Header Banner" />
   
   <br />
 
@@ -39,27 +39,21 @@
   </a>
 </div>
 
-<br />
-
-<!-- Animated Gradient Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
+<hr />
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
-# Hello! 👋 I'm Fourkan Bin Ilias
+Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to building modern, scalable, and high-performance web applications using **React, Next.js, Node.js, Express.js, MongoDB, and the MERN Stack**. I enjoy transforming ideas into real-world solutions through clean architecture, efficient code, and intuitive user experiences.
 
-A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to building modern, scalable, and high-performance web applications using **React, Next.js, Node.js, Express.js, MongoDB, and the MERN Stack**. I enjoy transforming ideas into real-world solutions through clean architecture, efficient code, and intuitive user experiences.
+> 🚀 **Currently Building:** **[Hireloop](https://hireloop-full-stack-project.vercel.app/)** — A full-stack recruitment platform connecting recruiters with job seekers featuring role-based auth, job tracking, and dynamic filtering.
 
-> 🚀 **Currently Building:** **[Hireloop](https://hireloop-full-stack-project.vercel.app/)** — A full-stack recruitment platform that streamlines the hiring process by connecting recruiters with job seekers. It features secure role-based authentication, job posting and management, advanced search and filtering, online application tracking, and a modern, responsive user interface built for a seamless user experience.
-
-* 🔭 **Currently working on:** Full Stack MERN applications featuring role-based access control, payment gateways, and scalable APIs.
+* 🔭 **Currently working on:** Full Stack MERN applications featuring role-based access control, payment gateways (Stripe), and scalable APIs.
 * 🌱 **Currently exploring:** Advanced Next.js, System Design, Microservices Architecture, and Performance Optimization.
 * 💡 **Passionate about:** Clean code principles, maintainable architecture, and pixel-perfect UI engineering.
 * 🎯 **Goal:** Continuous growth as a Software Engineer and contributing to impactful open-source projects.
 
-<!-- Animated Gradient Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
+<hr />
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
@@ -74,14 +68,12 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <a href="https://github.com/Pinon1345" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <p>
-  		<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  		<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  		<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -92,12 +84,12 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
     </td>
   </tr>
@@ -110,12 +102,12 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <a href="https://github.com/Pinon1345/Wanderlust-Travel-Tour" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -126,12 +118,12 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <a href="https://github.com/Pinon1345/Online-Book-Borrowing-Platform" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
     </td>
   </tr>
@@ -143,29 +135,28 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
         <a href="https://github.com/Pinon1345/keen-keeper-website-project" target="_blank"><b>💻 GitHub Code</b></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Animated Gradient Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
+<hr />
 
-<!-- Interactive Tech Stack & Skills -->
+<!-- Tech Stack & Skills -->
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend**
 <p align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 </p>
 
 ### **Backend & Database**
@@ -187,8 +178,7 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
   <a href="https://stripe.com/" target="_blank"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></a>
 </p>
 
-<!-- Animated Gradient Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
+<hr />
 
 <!-- GitHub Achievements -->
 ## 🏆 GitHub Achievements & Milestones
@@ -208,15 +198,7 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinon1345&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
-<!-- Animated Gradient Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-88f4-17f09f52194d.gif" width="100%" />
-
-<!-- Dynamic Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>
-
-<br />
+<hr />
 
 <!-- Social Connect Section -->
 ## 🌐 Connect with Me
@@ -229,7 +211,7 @@ A passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to buil
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/8801680224284" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-+8801680224284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/Phone-+8801680224284-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
