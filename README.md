@@ -40,7 +40,7 @@
 
 Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer** from **Bangladesh**, dedicated to building modern, scalable, and high-performance web applications using **React, Next.js, Node.js, Express.js, MongoDB, and the MERN Stack**. I enjoy transforming ideas into real-world solutions through clean architecture, efficient code, and intuitive user experiences.
 
-> 🚀 **Currently Building:** **[LegalEase](https://legalcase-online-lawyer-hiring-plat.vercel.app/)** — A dynamic lawyer hiring platform featuring secure authentication, payment systems, and robust full-stack architecture.
+> 🚀 **Currently Building:** **[Hireloop](https://hireloop-full-stack-project.vercel.app/)** — A full-stack recruitment platform connecting recruiters with job seekers featuring role-based auth, job tracking, and dynamic filtering.
 
 * 🔭 **Currently working on:** Full Stack MERN applications featuring role-based access control, payment gateways (Stripe), and scalable APIs.
 * 🌱 **Currently exploring:** Advanced Next.js, System Design, Microservices Architecture, and Performance Optimization.
@@ -54,13 +54,13 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="100%" alt="LegalEase Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="YOUR_LEGALEASE_IMAGE_URL_HERE" width="100%" alt="LegalEase Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>LegalEase</b></h3>
       <p>An online platform featuring dynamic profile management, secure backend payment verification routines with Stripe, and full-stack architecture.</p>
       <p>
-        <a href="https://legalcase-online-lawyer-hiring-plat.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_LEGALEASE_CLIENT_REPO" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_LEGALEASE_SERVER_REPO" target="_blank"><b>💻 Server</b></a>
+        <a href="https://legalease-online-lawyer-hiring-plat.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/Pinon1345" target="_blank"><b>💻 Client</b></a> • 
+        <a href="https://github.com/Pinon1345" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -72,13 +72,13 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="100%" alt="StudyNook Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="YOUR_STUDYNOOK_IMAGE_URL_HERE" width="100%" alt="StudyNook Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>StudyNook</b></h3>
       <p>A smart library study space and seat booking platform featuring real-time availability and user management.</p>
       <p>
         <a href="https://studynook-library-booking-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_STUDYNOOK_SERVER_REPO" target="_blank"><b>💻 Server</b></a>
+        <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -90,16 +90,15 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="100%" alt="Wanderlust Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="YOUR_WANDERLUST_IMAGE_URL_HERE" width="100%" alt="Wanderlust Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Wanderlust</b></h3>
       <p>Full-featured travel & tour booking portal with interactive destination guides and seamless reservation flow.</p>
       <p>
         <a href="https://wanderlust-travel-tour.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/Wanderlust-Travel-Tour" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_WANDERLUST_SERVER_REPO" target="_blank"><b>💻 Server</b></a>
+        <a href="https://github.com/Pinon1345/Wanderlust-Travel-Tour" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -111,13 +110,13 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="100%" alt="Hireloop Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="YOUR_HIRELOOP_IMAGE_URL_HERE" width="100%" alt="Hireloop Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Hireloop</b></h3>
       <p>A full-stack recruitment platform that streamlines the hiring process by connecting recruiters with job seekers.</p>
       <p>
         <a href="https://hireloop-full-stack-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/HireLoop-Job-Finder-Website" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_HIRELOOP_SERVER_REPO" target="_blank"><b>💻 Server</b></a>
+        <a href="https://github.com/Pinon1345/HireLoop-Job-Finder-Website" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -129,16 +128,15 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="100%" alt="Online Book Borrowing Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="YOUR_ONLINE_BOOK_IMAGE_URL_HERE" width="100%" alt="Online Book Borrowing Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Online Book Borrowing</b></h3>
       <p>Web platform designed to streamline library management, book borrowing tracking, and dynamic catalog searching.</p>
       <p>
         <a href="https://online-book-borrowing-platform-eight.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/Online-Book-Borrowing-Platform" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_BOOK_SERVER_REPO" target="_blank"><b>💻 Server</b></a>
+        <a href="https://github.com/Pinon1345/Online-Book-Borrowing-Platform" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -150,13 +148,13 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="100%" alt="Keen Keeper Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="YOUR_KEEN_KEEPER_IMAGE_URL_HERE" width="100%" alt="Keen Keeper Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Keen Keeper</b></h3>
       <p>Personal relationship CRM and tracking tool featuring interactive timelines, log interactions, and data visualization.</p>
       <p>
         <a href="https://keen-keeper-website-opal.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/keen-keeper-website-project" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/YOUR_KEEPER_SERVER_REPO" target="_blank"><b>💻 Server</b></a>
+        <a href="https://github.com/Pinon1345/keen-keeper-website-project" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
