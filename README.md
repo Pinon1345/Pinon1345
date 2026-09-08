@@ -56,11 +56,11 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
     <td width="50%" valign="top" align="center">
       <img src="YOUR_LEGALEASE_IMAGE_URL_HERE" width="100%" alt="LegalEase Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>LegalEase</b></h3>
-      <p>An online platform featuring dynamic profile management, secure backend payment verification routines with Stripe, and full-stack architecture.</p>
+      <p>A modern, real-life problem solver, full-stack Online Lawyer Hiring Platform designed to simplify the process of discovering, evaluating, consulting, and hiring legal professionals.</p>
       <p>
         <a href="https://legalease-online-lawyer-hiring-plat.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/Pinon1345" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345" target="_blank"><b>🛠️ Server</b></a>
+        <a href="https://github.com/Pinon1345/LegalEase-Online-Lawyer-Hiring-Platform" target="_blank"><b>💻 Client</b></a> • 
+        <a href="https://github.com/Pinon1345/LegalEase-Server" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -236,5 +236,5 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
 <div align="center">
   <hr width="50%" />
   <p>⚡ <i>"First, solve the problem. Then, write the code."</i></p>
-  <p>Designed with ❤️ by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
+  <p>Designed with by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
 </div>
