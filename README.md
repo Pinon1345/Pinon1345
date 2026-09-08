@@ -54,7 +54,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_LEGALEASE_IMAGE_URL_HERE" width="100%" alt="LegalEase Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="legalease.png" width="100%" alt="LegalEase Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>LegalEase</b></h3>
       <p>A modern, real-life problem solver, full-stack Online Lawyer Hiring Platform designed to simplify the process of discovering, evaluating, consulting, and hiring legal professionals.</p>
       <p>
@@ -72,7 +72,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_STUDYNOOK_IMAGE_URL_HERE" width="100%" alt="StudyNook Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="studynook.png" width="100%" alt="StudyNook Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>StudyNook</b></h3>
       <p>A smart library study space and seat booking platform featuring real-time availability and user management.</p>
       <p>
@@ -92,7 +92,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_WANDERLUST_IMAGE_URL_HERE" width="100%" alt="Wanderlust Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="wanderlust.png" width="100%" alt="Wanderlust Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Wanderlust</b></h3>
       <p>Full-featured travel & tour booking portal with interactive destination guides and seamless reservation flow.</p>
       <p>
@@ -110,7 +110,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_HIRELOOP_IMAGE_URL_HERE" width="100%" alt="Hireloop Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="hireloop.png" width="100%" alt="Hireloop Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Hireloop</b></h3>
       <p>A full-stack recruitment platform that streamlines the hiring process by connecting recruiters with job seekers.</p>
       <p>
@@ -130,7 +130,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_ONLINE_BOOK_IMAGE_URL_HERE" width="100%" alt="Online Book Borrowing Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="online-book.png" width="100%" alt="Online Book Borrowing Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Online Book Borrowing</b></h3>
       <p>Web platform designed to streamline library management, book borrowing tracking, and dynamic catalog searching.</p>
       <p>
@@ -148,7 +148,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="YOUR_KEEN_KEEPER_IMAGE_URL_HERE" width="100%" alt="Keen Keeper Preview" style="border-radius: 8px; margin-bottom: 10px;" />
+      <img src="keen-keeper.png" width="100%" alt="Keen Keeper Preview" style="border-radius: 8px; margin-bottom: 10px;" />
       <h3><b>Keen Keeper</b></h3>
       <p>Personal relationship CRM and tracking tool featuring interactive timelines, log interactions, and data visualization.</p>
       <p>
