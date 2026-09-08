@@ -78,7 +78,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       <p>
         <a href="https://studynook-library-booking-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/StudyNook-Library-Booking-Project" target="_blank"><b>🛠️ Server</b></a>
+        <a href="https://github.com/Pinon1345/StudyNook-Server" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -116,7 +116,7 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
       <p>
         <a href="https://hireloop-full-stack-project.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/Pinon1345/HireLoop-Job-Finder-Website" target="_blank"><b>💻 Client</b></a> • 
-        <a href="https://github.com/Pinon1345/HireLoop-Job-Finder-Website" target="_blank"><b>🛠️ Server</b></a>
+        <a href="https://github.com/Pinon1345/Hireloop-Server-Side" target="_blank"><b>🛠️ Server</b></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
