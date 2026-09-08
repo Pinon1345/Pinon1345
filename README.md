@@ -236,5 +236,5 @@ Hello! 👋 I'm **Fourkan Bin Ilias**, a passionate **Full Stack Web Developer**
 <div align="center">
   <hr width="50%" />
   <p>⚡ <i>"First, solve the problem. Then, write the code."</i></p>
-  <p>Designed with by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
+  <p>Designed by <strong>Fourkan Bin Ilias</strong> • Open for collaborations & opportunities!</p>
 </div>
